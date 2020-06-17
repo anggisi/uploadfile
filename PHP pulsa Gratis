@@ -1,0 +1,7 @@
+<?PHP
+
+
+//Playing Data Pulsa Gratis
+
+$uid ={"country":"ID","af_timestamp":"1592398050588","appsflyerKey":"qHqxrg7eWBBn6pHFsqqPU7","af_events_api":"1","isFirstCall":"false","registeredUninstall":false,"operator":"TELKOMSEL","network":"MOBILE","timepassedsincelastlaunch":"49","af_v2":"77a411d8cf8bca74d6738770d071ff93243ecb82","uid":"1592390917676-8197082800662547325","isGaidWithGps":"true","lang_code":"in","installDate":"2020-06-17_104820+0000","app_version_code":"816","firstLaunchDate":"2020-06-17_104841+0000","model":"SM-A105G","lang":"Indonesia","brand":"samsung","deviceType":"user","product":"a10dx","deviceData":{"cpu_abi":"armeabi-v7a","build_display_id":"QP1A.190711.020.A105GDXU7BTD1","btch":"ac","dim":{"size":"2","ydp":"269.986","xdp":"268.941","y_px":"1339","x_px":"720","d_dpi":"280"},"arch":"","btl":"12.0","cpu_abi2":"armeabi"},"installer_package":"com.google.android.packageinstaller","date2":"2020-06-17_104820+0000","counter":"13","date1":"2020-06-17_104820+0000","deviceRm":"QP1A.190711.020.A105GDXU7BTD1","advertiserId":"06c262d8-dc03-48d9-8009-26c9ee74009e","advertiserIdEnabled":"true","af_v":"303a62d7a3cc6bf2e75c6eff99c5ac15d7a68788","carrier":"Tsel-DiRumahAja","af_preinstalled":"false","iaecounter":"9","tokenRefreshConfigured":false,"sdk":"29","appUserId":"2906f034b5f1accd","android_id":"2906f034b5f1accd","app_version_name":"4.0.8910","device":"a10","platformextension":"android_native","cksm_v1":"d1fcfe03f74a4d29ff048fa0387bafa9fe"}
+$Nomor HP = +6282113051189
